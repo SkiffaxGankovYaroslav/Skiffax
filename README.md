@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skiffax
-- 👀 I’m interested in automation. Mainly furniture design automation because I'm the lead designer and I'm interested in making employees work faster.
+- 👀 I’m interested in automation.
 - 🌱 I’m currently learning Linux, network administration and other DevOps methodology, because I dream of doing automation in this industry.
 - 💞️ I’m looking to collaborate individual developers and companies
 - 📫 How to reach me: +380662854936 skiffax@gmail.com
